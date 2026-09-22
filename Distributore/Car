@@ -1,0 +1,8 @@
+public class Car{
+    private final double kmPerLitro=20;
+    private final double capienzaSerbatoio=100;
+    private double benzinaDisponibile;
+    public Car(){
+        this.benzinaDisponibile=0.0;
+    }
+}
